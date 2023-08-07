@@ -1,4 +1,4 @@
-# Visualizing 2021 ENSO and IOD using python
+# Visualizing 2021 ENSO and IOD Using Python
 Creating a visualization of 2021 El Nino Southern Oscillation and Indian Ocean Dipole activities.
 
 ## Data
